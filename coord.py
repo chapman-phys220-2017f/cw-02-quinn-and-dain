@@ -3,7 +3,7 @@
 def coord_for(n, a=0, b=1):
     coords = []
     dist = (b-a)/n
-    print(dist)
+    #print(dist)
     for i in range(n+1):
         coords.append(a+i*dist)
     return coords
@@ -12,7 +12,7 @@ def coord_while(n, a=0, b=1):
     i = 0
     coords = []
     dist = (b-a)/n
-    print(dist)
+    #print(dist)
     while((a+i)<=b):
         coords.append(a+i)
         i = i+dist
@@ -20,7 +20,7 @@ def coord_while(n, a=0, b=1):
 
 def coord_comp(n, a=0, b=1):
     dist = (b-a)/n
-    print(dist)
+    #print(dist)
     coords = [a+i*dist for i in range(n+1)]
     return coords
 
