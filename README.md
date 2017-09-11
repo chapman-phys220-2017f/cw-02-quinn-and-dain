@@ -1,6 +1,6 @@
 # PHYS220 CW 2
 
-**Author(s):** **CHANGEME**
+Quinn Gates and Dain Miller
 
 ## Specification
 
@@ -63,7 +63,7 @@ the coordinates in a list.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+I wish we had gone over Jupyter notebooks a little bit more in class.  I had a lot of trouble getting it to look good and getting coords to work was troublesome.  It would work wonderfully in the terminal and then fall apart in Jupyter.
 
 ## Honor Pledge
 
@@ -74,4 +74,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Quinn Gates and Dain Miller
